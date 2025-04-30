@@ -16,7 +16,7 @@ import sys
 import textwrap  # Add this import
 
 # Configure the Generative AI SDK with your API key
-genai.configure(api_key='AIzaSyAhwutksY8a3XAkLP0FjyLH_S-LqxBnkSg')
+genai.configure(api_key='AIzaSyAhtesttttutututuH_S-LqxBnkSg')
 
 # Initialize the Gemini 2.0 Flash model
 model = genai.GenerativeModel('gemini-2.0-flash')
