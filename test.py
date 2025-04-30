@@ -7,7 +7,7 @@ import base64
 import os
 
 # Configure the Generative AI SDK with your API key
-genai.configure(api_key='AIzaSyAhwutksY8a3XAkLP0FjyLH_S-LqxBnkSg')
+genai.configure(api_key='tesr')
 
 # Initialize the Gemini 2.0 Flash model
 model = genai.GenerativeModel('gemini-2.0-flash')
